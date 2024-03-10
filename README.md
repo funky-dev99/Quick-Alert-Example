@@ -1,0 +1,2 @@
+# Quick-Alert-Example
+ Explore the seamless integration of QuickAlert in Flutter with the Quick_Alert_Example repo. This project showcases a variety of alerts - from success and error to custom dialogs, enhancing user feedback with style. Dive into code examples for instant, stylish notifications in your Flutter apps. Perfect for developers looking to elevate UI/UX with informative and interactive alerts. Check it out and elevate your app's alert system today! #Flutter #QuickAlert #UIUX
